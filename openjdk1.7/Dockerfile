@@ -1,2 +1,2 @@
 FROM alpine
-RUN apk -U add openjdk7 
+RUN apk -U add openjdk7
