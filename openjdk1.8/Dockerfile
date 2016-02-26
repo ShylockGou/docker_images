@@ -1,3 +1,3 @@
 FROM alpine
-RUN apk -U add openjdk7
+RUN apk -U add openjdk8
 ENV JAVA_HOME /usr/lib/jvm/default-jvm
